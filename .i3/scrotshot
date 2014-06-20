@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+exec scrot -e 'imgurbash $f' &
