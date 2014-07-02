@@ -1,1 +1,1 @@
-nvidia-settings --load-config-only
+/home/rob/.xinitrc
